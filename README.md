@@ -1,2 +1,2 @@
 # Age_Calculator
-Age calculator app (years,months and month spent) 
+An app that calculate the number of years,months,days,weeks,hour and minutes of users
